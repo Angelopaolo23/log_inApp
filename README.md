@@ -1,3 +1,7 @@
+Desafio numero 2 del modulo "Estados de los componentes y eventos" de React I en Desafio Latam, este desafio consiste principalmente en la creacion de una aplicacion de Log In con React, que nos permitira a traves de la utilizacion de estados y eventos ingresar una contraseña y un nombre que deben ser autenticados, en caso de estar la informacion correcta despliega un mensaje exitoso o uno con error.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
